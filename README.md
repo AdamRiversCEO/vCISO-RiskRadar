@@ -296,7 +296,7 @@ vCISO-RiskRadar is designed for authorized security testing only. **Always obtai
 
 For issues, feature requests, or questions:
 - Open an issue on [GitHub](https://github.com/AdamRiversCEO/vCISO-RiskRadar/issues).
-- Contact Adam Rivers via [Hello Security LLC](https://hellosecurity.llc).
+- Contact Adam Rivers via [His Official Website](https://officialadamrivers.github.io).
 
 ---
 
